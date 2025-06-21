@@ -35,7 +35,7 @@ Each model is applied to the same traffic video containing multiple moving objec
 
 ## Example Input
 
-A video clip showing a traffic scene with moving vehicles (from datasets like ([https://www.kaggle.com/competitions/aicity-2020-track1/data)](https://www.pexels.com/search/videos/traffic/) or similar).
+A video clip showing a traffic scene with moving vehicles (from datasets like ([https://www.pexels.com/search/videos/traffic/)](https://www.pexels.com/search/videos/traffic/) or similar).
 
 ---
 
