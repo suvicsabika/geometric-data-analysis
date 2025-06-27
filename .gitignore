@@ -1,3 +1,7 @@
 1_sort/sort
 3_yolov8/runs/detect/track/labels/*.txt
+3_yolov8/runs/detect/track2/labels/*.txt
+3_yolov8/runs/detect/track3/labels/*.txt
 3_yolov8/runs/detect/track/cars_on_the_highway.avi
+3_yolov8/runs/detect/track2/cars_on_the_highway.avi
+3_yolov8/runs/detect/track3/cars_on_the_highway.avi
